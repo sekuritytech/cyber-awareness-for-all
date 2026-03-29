@@ -36,3 +36,6 @@ AI-driven awareness simulations
 ⭐ Support
 
 If you find this useful, please star the repo and share it to spread awareness.
+
+## 📜 License
+This project is licensed under the MIT License.
