@@ -38,7 +38,6 @@ To simplify cybersecurity and make awareness **accessible to everyone** — from
   </tr>
 </table>
 
-> 📁 To display screenshots: create a `screenshots/` folder in your repo root and add `presentation.png`, `checklist.png`, and `module.png` to it.
 
 ---
 
