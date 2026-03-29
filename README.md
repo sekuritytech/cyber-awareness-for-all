@@ -21,9 +21,9 @@ To simplify cybersecurity and make awareness **accessible to everyone** — from
 
 | Resource | Type | Audience | Description |
 |----------|------|----------|-------------|
-| 📊 [Cyber Safety Presentation](presentations/) | `.pptx` | Parents · Educators | 10-slide deck covering threats, rules, and response strategies |
-| ✅ [Interactive Checklist](presentations/CyberSafety_Kids_Checklist.html) | `.html` | Kids · Parents | 32-item checklist with live progress tracking |
-| 🎓 [Awareness Module](presentations/CyberSafety_Kids_AwarenessModule.html) | `.html` | Kids · Educators | 5-module interactive course with quizzes & completion certificate |
+| 📊 [Cyber Safety Presentation](presentations/cyber-safety-awareness-session/) | `.pptx` | Parents · Educators | 10-slide deck covering threats, rules, and response strategies |
+| ✅ [Interactive Checklist](presentations/checklists/CyberSafety_Kids_Checklist.html) | `.html` | Kids · Parents | 32-item checklist with live progress tracking |
+| 🎓 [Awareness Module](presentations/awareness-modules/kids-online-safety/CyberSafety_Kids_AwarenessModule.html) | `.html` | Kids · Educators | 5-module interactive course with quizzes & completion certificate |
 
 ---
 
@@ -36,8 +36,6 @@ To simplify cybersecurity and make awareness **accessible to everyone** — from
     <td align="center"><img src="screenshots/module.png" alt="Awareness Module" width="100%"/><br><sub><b>🎓 Awareness Module</b> — quizzes, scenarios & certificate</sub></td>
   </tr>
 </table>
-
-> 📁 To display screenshots: create a `screenshots/` folder in your repo root and add `presentation.png`, `checklist.png`, and `module.png` to it.
 
 ---
 
