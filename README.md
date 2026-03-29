@@ -39,3 +39,9 @@ If you find this useful, please star the repo and share it to spread awareness.
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+## 📂 Included Resources
+
+- 📊 Cyber Safety Awareness Presentation  
+- ✅ Interactive Cyber Safety Checklist  
+- 🎓 Interactive Learning Module with Certification  
