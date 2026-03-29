@@ -28,3 +28,7 @@ To educate individuals, parents, and educators about essential cybersecurity pra
 ## 📌 Usage
 
 This presentation can be used for awareness sessions in schools, organizations, and community programs.
+
+## 📊 Download Presentation
+
+[Download / View Presentation](CyberSafety_Kids_Presentation.pptx)
